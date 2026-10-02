@@ -11,4 +11,4 @@ Context context = this;
 context.sendBroadcast(msg);
 ````
 
-If Laqorr is installed it will receive this boradcast and launch its Media Player activity. When the Media Player activity detects a mouse click or a screen touch it will close again.
+If Laqorr is installed it will receive this broadcast and launch its Media Player activity. When the Media Player activity detects a mouse click or a screen touch it will close again.
